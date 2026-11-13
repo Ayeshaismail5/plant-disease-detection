@@ -1,0 +1,10 @@
+tensorflow,
+numpy,
+pandas,
+opencv-python, 
+scikit-learn,
+matplotlib, 
+seaborn, split-folders, 
+flask,
+flask-cors,
+pillow
