@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+data/
+models/
+*.h5
+*.keras
+*.zip
+history.db
+node_modules/
